@@ -1,0 +1,1 @@
+import{l as i,c as a,b as t,a4 as n}from"./chunks/framework.Bsf8e199.js";const E=JSON.parse('{"title":"常用 API","description":"","frontmatter":{},"headers":[],"relativePath":"guide/api.md","filePath":"guide/api.md"}'),e={name:"guide/api.md"};function h(l,s,p,k,r,d){return t(),a("div",null,s[0]||(s[0]=[n("",20)]))}const g=i(e,[["render",h]]);export{E as __pageData,g as default};

@@ -1,0 +1,1 @@
+import{l as a,c as t,b as r,a4 as o}from"./chunks/framework.Bsf8e199.js";const b=JSON.parse('{"title":"为什么选择我们 ?","description":"","frontmatter":{},"headers":[],"relativePath":"guide/why.md","filePath":"guide/why.md"}'),l={name:"guide/why.md"};function i(n,e,s,h,u,p){return r(),t("div",null,e[0]||(e[0]=[o("",9)]))}const c=a(l,[["render",i]]);export{b as __pageData,c as default};

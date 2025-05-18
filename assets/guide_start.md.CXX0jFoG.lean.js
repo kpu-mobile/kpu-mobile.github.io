@@ -1,0 +1,1 @@
+import{l as a,c as e,b as n,a4 as t}from"./chunks/framework.Bsf8e199.js";const k=JSON.parse('{"title":"开始","description":"","frontmatter":{},"headers":[],"relativePath":"guide/start.md","filePath":"guide/start.md"}'),i={name:"guide/start.md"};function p(l,s,o,r,c,d){return n(),e("div",null,s[0]||(s[0]=[t("",5)]))}const m=a(i,[["render",p]]);export{k as __pageData,m as default};
