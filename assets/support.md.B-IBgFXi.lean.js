@@ -1,0 +1,1 @@
+import{l as a,a as r,c as t,Q as o}from"./chunks/framework.DOjIL4Wh.js";const c=JSON.parse('{"title":"技术支持","description":"","frontmatter":{},"headers":[],"relativePath":"support.md","filePath":"support.md"}'),i={name:"support.md"};function l(s,e,p,n,h,u){return r(),t("div",null,[...e[0]||(e[0]=[o("",19)])])}const b=a(i,[["render",l]]);export{c as __pageData,b as default};

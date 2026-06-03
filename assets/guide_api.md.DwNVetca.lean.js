@@ -1,0 +1,1 @@
+import{l as i,a,c as t,Q as n}from"./chunks/framework.DOjIL4Wh.js";const E=JSON.parse('{"title":"常用 API","description":"","frontmatter":{},"headers":[],"relativePath":"guide/api.md","filePath":"guide/api.md"}'),e={name:"guide/api.md"};function h(l,s,p,k,d,r){return a(),t("div",null,[...s[0]||(s[0]=[n("",20)])])}const g=i(e,[["render",h]]);export{E as __pageData,g as default};

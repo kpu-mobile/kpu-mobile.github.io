@@ -1,0 +1,1 @@
+import{l as t,a as e,c as o,Q as r}from"./chunks/framework.DOjIL4Wh.js";const h=JSON.parse('{"title":"交换友链","description":"","frontmatter":{},"headers":[],"relativePath":"links.md","filePath":"links.md"}'),l={name:"links.md"};function i(n,a,s,p,d,c){return e(),o("div",null,[...a[0]||(a[0]=[r("",7)])])}const m=t(l,[["render",i]]);export{h as __pageData,m as default};

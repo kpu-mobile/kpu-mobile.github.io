@@ -1,0 +1,1 @@
+import{l as i,a,c as t,Q as n}from"./chunks/framework.DOjIL4Wh.js";const g=JSON.parse('{"title":"权限认证","description":"","frontmatter":{},"headers":[],"relativePath":"guide/auth.md","filePath":"guide/auth.md"}'),h={name:"guide/auth.md"};function l(p,s,k,e,E,d){return a(),t("div",null,[...s[0]||(s[0]=[n("",25)])])}const y=i(h,[["render",l]]);export{g as __pageData,y as default};

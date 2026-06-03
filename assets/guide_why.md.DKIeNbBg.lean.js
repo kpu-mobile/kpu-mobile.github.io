@@ -1,0 +1,1 @@
+import{l,a,c as i,Q as t}from"./chunks/framework.DOjIL4Wh.js";const g=JSON.parse('{"title":"为什么选择我们 ?","description":"","frontmatter":{},"headers":[],"relativePath":"guide/why.md","filePath":"guide/why.md"}'),r={name:"guide/why.md"};function o(s,e,h,n,u,m){return a(),i("div",null,[...e[0]||(e[0]=[t("",28)])])}const d=l(r,[["render",o]]);export{g as __pageData,d as default};

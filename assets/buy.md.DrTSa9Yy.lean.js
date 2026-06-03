@@ -1,0 +1,1 @@
+import{l as e,a as t,c as l,Q as i}from"./chunks/framework.DOjIL4Wh.js";const p=JSON.parse('{"title":"购买专业版","description":"","frontmatter":{},"headers":[],"relativePath":"buy.md","filePath":"buy.md"}'),r={name:"buy.md"};function o(s,a,n,u,m,d){return t(),l("div",null,[...a[0]||(a[0]=[i("",13)])])}const b=e(r,[["render",o]]);export{p as __pageData,b as default};
